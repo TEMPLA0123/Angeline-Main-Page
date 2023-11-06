@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<tittle> My Favorite Anime Series </tittle>
+</head>
+
+<body bgcolor= darkgrey>
+
+<div style="Text-align:center; margin-top:40px;">
+<a style="padding-right:20px;" href="home.html">My Home</a>
+<a style="padding-right:20px;" href="My Favorite Anime Series.html">My Favorite Anime Series</a>
+<a style="padding-right:20px;" href="My Favorite Anime Music.html">My Favorite Anime Music</a>
+<a style="padding-right:20px;" href="#">My Favorite Anime Movies</a>
+<a style="padding-right:20px;" href="#">My Favorite Manga and Webtoons</a>
+</div>
+
+<center> <h1 style="font-size:50px; text-align:center;">Shonen Anime</h1>

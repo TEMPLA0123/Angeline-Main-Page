@@ -1,0 +1,90 @@
+<html>
+
+<tittle> My Favorite Anime Music
+</head>
+
+<style>
+body {
+  background-image: url('tt.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+</style>
+</head>
+
+<div style="Text-align:center; margin-top:40px;">
+<a style="padding-right:20px;" href="home.html">My Home</a>
+<a style="padding-right:20px;" href="My Favorite Anime Series.html">My Favorite Anime Series</a>
+<a style="padding-right:20px;" href="My Favorite Anime Music.html">My Favorite Anime Music</a>
+<a style="padding-right:20px;" href="My Favorite Japanese Anime Movies.html">My Favorite Japanese Anime Movies</a>
+<a style="padding-right:20px;" href="#">My Favorite Manga and Webtoons</a>
+</div>
+
+<center> <h1 style="font-size:50px; text-align: center;">Anime Music</h1>
+
+<hr width=1000 height=300 color=brown>
+
+<center> <h1 style="font-size:50px; text-align: left;">Gurenge <br>by: Lisa</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/gurenge.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">Gurenge (紅蓮華) is the first opening song to Demon Slayer Kimetsu no Yaiba anime performed by LiSA. Digitally released on April 22, 2019 followed by a physical release on July 3, 2019. Gurenge translates into Crimson Lotus Flower, it is an upbeat rock song about obtaining a reason to become stronger. Reading the manga when creating the lyrics, combined her artistic world view with the series. The song was composed by Kayoko Kusano and arranged by Ryo Eguchi. After the day of release of the song on all the major digital music platforms, the song made it into 38 separate Daily Single charts and has reached more than 300,000 downloads
+
+
+center> <h1 style="font-size:50px; text-align: left;">Shinzou wo Sasageyo <br> by:Linked Horizon</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/Shinzou wo Sasageyo!  (1).mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">“心臓を捧げよ!” (“Shinzou wo Sasageyo!,” translated as “Dedicate Your Heart!”) by Linked Horizon is the opening theme for the second season of the popular anime Attack on Titan. The title is meant to go hand-in-hand with the famous salute in both the anime and the manga, where the Survey Corps put a fist to their heart. The title tells you to not just dedicate your heart in some poetic way, rather to literally take your very being and dedicate it to something
+
+
+center> <h1 style="font-size:50px; text-align: left;">Cry Baby <br>by:Hige Dandism</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/cry baby.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">"Cry Baby" is a song by Japanese band Official Hige Dandism, released as a digital single on May 7, 2021. The song was used as the opening theme song to the first season of the anime adaptation of Tokyo Revengers. The full version of "Cry Baby" was first played on April 24, 2021 on the FM802 radio program Lantern Jam Times. The song was later released digitally on May 7, 2021. It was used as the opening theme song to the anime adaptation of Tokyo Revengers, which was broadcast from April 11 to September 19, 2021. n May 2021, "Cry Baby" reached 22,068 downloads. In September 2021, "Cry Baby" was certified Platinum by the Recording Industry Association of Japan.
+
+
+center> <h1 style="font-size:50px; text-align: left;">Unravel <br>TK</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/unravel.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">Unravel is the first opening theme for the Tokyo Ghoul anime series and is performed by TK from Ling Tosite Sigure. The song debuted in the first episode as ending and from second episode continued normally as opening. The single track with additional songs from TK was released on July 23, 2014. In the final twelfth episode, there was no opening animation, but a different version of the song with lyrics from the full version not included in the standard. The song highly exceeded the producer's thoughts and the response was viral. Covers/versions of Unravel are very popular, receiving millions of views.
+
+
+center> <h1 style="font-size:50px; text-align: left;">Kyoran Hey Kids! <br>by: Oral Cigarettes</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/hey kids.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">Kyoran Hey Kids!! (狂乱 Hey Kids!!) is the fourth single by THE ORAL CIGARETTES. It was released on November 11, 2015, and peaked at #19 on the Oricon single chart. The lead track Kyoran Hey Kids!! was used as the opening theme for the anime Noragami Aragoto.
+
+
+center> <h1 style="font-size:50px; text-align: left;">Blue Bird <br>by: Ikimonogakari</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/blue bird.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">Blue Bird (ブルーバード, Burū Bādo), performed by Ikimonogakari, was the third opening for Naruto: Shippūden. It replaced Distance and ran from episode 54 up until episode 77 before being replaced by Closer.
+
+
+
+center> <h1 style="font-size:50px; text-align: left;">New World <br>by: Nightmare</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/deathnote.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">The Death Note Original Soundtrack for the anime adaptation was first released in Japan on December 21, 2006, and was published by VAP. It contains music from the series, composed by Yoshihisa Hirano and Hideki Taniuchi, with the first opening and ending themes sung by the Japanese band Nightmare in the TV size format. The tracks 1-18 were composed and arranged by Hideki Taniuchi, while the tracks 19-28 were composed and arranged by Yoshihisa Hirano. The first press' slipcover featured glow-in-the-dark artwork.
+
+
+center> <h1 style="font-size:50px; text-align: left;">Silhouette <br>by: Kana-Boon</h1>
+<div style="Text-align:left;">
+<center> <video src="My video/kana-boon.mp4" controls width="600"></>
+</div>
+
+<p style="font-size:20px; text-align:left; line-height:30px; margin-bottom:50px;">The four-man rock band KANA-BOON has contributed many songs to the NARUTO series, beginning with "Silhouette", an opening theme from NARUTO: Shippuden. All four members (Maguro Taniguchi, Hayato Koga, Takahiro Koizumi, and Masami Endou) are huge fans of NARUTO, and one of their goals from before they became famous was to write an anime opening for the show. How was their passion for the series reflected in the songs they wrote for it? In this interview, we spoke about the band's journey with NARUTO over the last seven years. (Part 2 of 2)

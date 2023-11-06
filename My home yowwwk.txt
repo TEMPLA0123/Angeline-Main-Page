@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<tittle> Otaku's Haven: A Journey Through the Best Anime Series, Anime Music, Anime Movies,& Mangas/Webtoons </tittle>
+</head>
+
+<body bgcolor= skyblue>
+
+<div style="Text-align:center; margin-top:40px;"><image src="ed69acd71cbb8f82a4cbba50c06946722b582908-731x731.png"></div>
+
+ <h1 style="font-size:50px; text-align:center;">Otaku's Haven: A Journey Through the Best Anime Series, Anime Music, Anime Movies,& Mangas/Webtoons</h1>
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;"> Join us as we traverse through the enchanting landscapes of anime, guided by the most memorable series and their accompanying songs.<br> Whether you're a seasoned otaku or just starting your anime adventure, <br>"Otaku's Haven" is your compass, revealing hidden gems, sharing insights, and offering recommendations to enrich your anime journey.</p>
+
+<div style="Text-align:center; margin-top:40px;">
+<a style="padding-right:20px;" href="My home yow.html">My Home</a>
+<a style="padding-right:20px;" href="My Favorite Anime Series.html">My Favorite Anime Series</a>
+<a style="padding-right:20px;" href="My Favorite Anime Music.html">My Favorite Anime Music</a>
+<a style="padding-right:20px;" href="My Favorite Japanese Anime Movies.html">My Favorite Japanese Anime Movies</a>
+<a style="padding-right:20px;" href="My Favorite Manga and Webtoon.html">My Favorite Manga and Webtoon</a>
+</div>
+
+<hr width=1000 height=200 color= gry>
+
+<h1 style="font-size:50px; text-align:center;">MY CONTENTS</h1>
+
+
+<img style="width:32%" src="top_10_best_anime_series_of_all_time_by_herocollector16_ddvlk6k-pre.jpg">
+<img style="width:32%" src="maxresdefault.jpg">
+<img style="width:32%" src="Best-Japanese-Anime-Movies-768x461.jpg">
+ <center> <img style="width:32%" src="manga-manhua-manhwa-1.jpg">
+
+</body>

@@ -1,0 +1,109 @@
+<html>
+
+<head>
+<tittle> My Favorite Anime Series </tittle>
+</head>
+
+<body bgcolor= darkgrey>
+
+<div style="Text-align:center; margin-top:40px;">
+<a style="padding-right:20px;" href="home.html">My Home</a>
+<a style="padding-right:20px;" href="My Favorite Anime Series.html">My Favorite Anime Series</a>
+<a style="padding-right:20px;" href="My Favorite Anime Music.html">My Favorite Anime Music</a>
+<a style="padding-right:20px;" href="#">My Favorite Anime Movies</a>
+<a style="padding-right:20px;" href="#">My Favorite Manga and Webtoons</a>
+</div>
+
+<center> <h1 style="font-size:50px; text-align:center;">Shonen Anime</h1>
+
+
+<hr width=1000 height=200 color=red
+
+<center> <img style="width:30%" src="MV5BN2FlYjYxMTMtZGQzYy00OWU2LTkyYWMtNWJhODhmZmM0N2FhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg">
+
+ <p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Black clover<br> Its the story of two orphankinds Asta and Yuno raised in the outskirts of the Clover Kingdom. In a world where people are born with magic, Asta was born without any. In contrast, Yuno was born a prodigy with above average magic power and the talent to control it. Additionally, in their coming of age ceremony, Yuno receives a rare four-leaf clover grimoire, like the original Wizard King. On the other hand, Asta received a tattered grimoire where a devil lies within, a five-leaf clover grimoire.
+
+The story follows Asta and Yuno as they crawl their way up the ladder of the Clover Kingdom's Magic Knights, in the midst of scrutiny by the nobles, to become the Wizard King. However, the title is only preserved for a single mage. Who will attain the coveted title of the strongest mage in the kingdom, Asta or Yuno?.</p>
+
+<center> <img style="width:30%" src="6ca60231d6f8770c9e6b7e3597b4e28a.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Jujutsu Kaisen <br>follows the story of Yuji Itadori, an ordinary boy who crosses paths with Megumi Fushiguro, a Jujutsu Sorcerer searching for a powerful Cursed Object known as Ryomen Sukuna's finger. Unintentionally, Yuji's friends unseal the Cursed Object, attracting dangerous Curses to their location. In a desperate attempt to protect his friends, Yuji consumes the finger, becoming the host of Sukuna's power.
+
+<center> <img style="width:30%" src="kamitsu no yaiba.jpg">
+
+ <p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Kamitsu No Yaiba/ Demon Slayer <br>Tanjiro Kamado is a kind-hearted and intelligent boy who lives with his family in the mountains. After his father's death, he became his family's breadwinner, traveling to the nearby village to sell charcoal. One day, he came home and discovers his family was attacked and slaughtered by a demon. His sister Nezuko, the sole survivor of the incident, has been transformed into a demon, but still surprisingly shows signs of human emotion and thought.
+
+<center> <img style="width:30%" src="610ac521b411408932a0c60d6000e454.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Shingeki No Kyojin/ Attack On Titan <br>Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity is forced to live in cities surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after they bring about the destruction of his hometown and the death of his mother.
+
+<center> <img style="width:30%" src="nora.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Hiyori Iki was a normal middle school student until she was involved in a bus accident while trying to protect a stranger. This incident causes her soul to frequently slip out of her body, and she becomes aware of the existence of two parallel worlds: the Near Shore, where regular humans and creatures reside, and the Far Shore, where phantoms (demonic beasts) and human souls linger. Through her soul, she meets the strange, nameless god without a shrine, Yato. Yato is determined to make a name for himself out there by accepting any wish for 5 yen, including Hiyori's to fix her body
+
+<center> <h1 style="font-size:50px; text-align:center;">Shojo Anime</h1>
+
+<hr width=1000 height=200 color=pink
+
+
+<center> <img style="width:30%" src="fruit basket.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Fruits Basket <br> it's a story of Tohru Honda, an orphan girl who, after meeting Yuki, Kyo, and Shigure Sohma, learns that 13 members of the Sohma family are possessed by the animals of the Chinese zodiac and are cursed to turn into their animal forms when they are weak, stressed, or when they are embraced by anyone of the opposite gender who is not possessed by a spirit of the zodiac.
+
+<center> <img style="width:30%" src="kamisama kiss.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">kamisama kiss <br>High schooler Nanami Momozono has quite a few problems of late, beginning with her absentee father being in such extreme debt that they lose everything. Downtrodden and homeless, she runs into a man being harassed by a dog. After helping him, she explains her situation, and to her surprise, he offers her his home in gratitude. But when she discovers that said home is a rundown shrine, she tries to leave; however, she is caught by two shrine spirits and a fox familiar named Tomoe. They mistake her for the man Nanami rescued—the land god of the shrine, Mikage. Realizing that Mikage must have sent her there as a replacement god, Tomoe leaves abruptly, refusing to serve a human <br>Rather than going back to being homeless, Nanami immerses herself in her divine duties. But if she must keep things running smoothly, she will need the help of a certain hot-headed fox. In her fumbling attempt to seek out Tomoe, she lands in trouble and ends up sealing a contract with him. Now the two must traverse the path of godhood together as god and familiar; but it will not be easy, for new threats arise in the form of a youkai who wants to devour the girl, a snake that wants to marry her, and Nanami's own unexpected feelings for her new familiar.
+
+<center> <img style="width:30%" src="red hair.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Although her name means "snow white," Shirayuki is a cheerful, red-haired girl living in the country of Tanbarun who works diligently as an apothecary at her herbal shop. Her life changes drastically when she is noticed by the silly prince of Tanbarun, Prince Raji, who then tries to force her to become his concubine. Unwilling to give up her freedom, Shirayuki cuts her long red hair and escapes into the forest, where she is rescued from Raji by Zen Wistalia, the second prince of a neighboring country, and his two aides. Hoping to repay her debt to the trio someday, Shirayuki sets her sights on pursuing a career as the court herbalist in Zen's country, Clarines.
+
+Akagami no Shirayuki-hime depicts Shirayuki's journey toward a new life at the royal palace of Clarines, as well as Zen's endeavor to become a prince worthy of his title. As loyal friendships are forged and deadly enemies formed, Shirayuki and Zen slowly learn to support each other as they walk their own paths.
+
+
+<center> <h1 style="font-size:50px; text-align:center;">Seinen Anime</h1>
+
+<hr width=1000 height=200 color=black
+
+
+<center> <img style="width:30%" src="one ounch.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">One Punch Man <br>The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.
+
+<center> <img style="width:30%" src="berserk.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Berserk <br>Guts is a lone warrior who was born from a hanged corpse and raised as a mercenary by his abusive adoptive father Gambino after the death of his adoptive mother, Shisu. It came to a head when Guts was forced to kill a drunk Gambino in self-defense, fleeing his mercenary group and becoming a wandering sellsword.
+
+<center> <img style="width:30%" src="death parade.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Death Parade <br>fter death, humans go to either heaven or hell. But for some, at the instant of their death, they arrive at the Quindecim, a bar attended by the mysterious white-haired Decim. He challenges them to a Death Game, where in they wager their lives and reveal their true natures. Decim himself is an arbitrator of who loses and who wins, who goes to the void and who is reincarnated.
+
+<center> <img style="width:30%" src="parasyte.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Parasyte : The Maxim <br>DeathShinichi Izumi is partially infected by a Parasyte, monsters that butcher and consume humans. He must learn to co-exist with the creature if he is to survive both the life of a Parasyte and a human as part monster, part person.
+
+<center> <h1 style="font-size:50px; text-align:center;">Isekai Anime</h1>
+
+<hr width=1000 height=200 color=darkblue
+
+<center> <img style="width:30%" src="iruma.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;"> Welcome To Demon School Iruma-Kun <br>The story follows Iruma Suzuki, a 14-year-old human boy who is sold to a demon by his lazy, selfish and neglectful parents. The demon, known as Sullivan, takes Iruma to the Demon World and officially adopts him as his grandson. He enrolls Iruma in the Babyls School for Demons where he is the headmaster and where Iruma quickly befriends the demons Alice Asmodeus and Clara Valac. However, Sullivan tells Iruma to never reveal that he is human since he will be eaten if anyone finds out. Iruma then vows to blend in during his time in the demon world, although he only stands out because of all the situations and adventures that arise. By his second year Iruma turns 15 years old.
+
+<center> <img style="width:30%" src="inuyasha.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">InuYasha <br>Kagome Higurashi's 15th birthday takes a sudden turn when she is forcefully pulled by a demon into the old well of her family's shrine. Brought to the past, when demons were a common sight in feudal Japan, Kagome finds herself persistently hunted by these vile creatures, all yearning for an item she unknowingly carries: the Shikon Jewel, a small sphere holding extraordinary power.
+
+Amid such a predicament, Kagome encounters a half-demon boy named Inuyasha who mistakes her for Kikyou, a shrine maiden he seems to resent. Because of her resemblance to Kikyou, Inuyasha takes a violent dislike to Kagome. However, after realizing the dire circumstances they are both in, he sets aside his hostility and lends her a hand.
+
+
+<center> <img style="width:30%" src="mushoku.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;">Mushoku Tensei Jobless Reincarnation <br>An unnamed 34-year-old Japanese NEET is evicted from his home following his parents' death and skipping the funeral. Upon some self-introspection, he concluded his life was ultimately pointless but still intercepts a speeding truck heading towards a group of teenagers in an attempt to do something meaningful for once in his life and manages to pull one of them out of harm's way before dying. Awakening in a baby's body, he realizes his being reincarnated in a world of sword and sorcery and resolves to become successful in his new life, discarding his past identity for his new life as Rudeus Greyrat.
+
+<center> <img style="width:30%" src="no game.jpg">
+
+<p style="font-size:20px; text-align:center; line-height:30px; margin-bottom:50px;"> No Game No Life <br> Sora and Shiro are two hikikomori stepsiblings who are known in the online gaming world as Blank, an undefeated group of gamers. One day, they are challenged to a game of chess by Tet, a god from another reality. The two are victorious and are offered to live in a world that centers around games
+
+</body>
+</html>
